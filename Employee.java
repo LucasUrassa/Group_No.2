@@ -60,7 +60,7 @@ public class Employee
         if (basicSalary >= 500000) {
             this.basicSalary = basicSalary;
         } else {
-            System.out.println("Salary must be at least 500000.");
+            System.out.println("Salary must be at least 500000");
         }
     }
 
@@ -68,7 +68,7 @@ public class Employee
         if (yearsOfService >= 0) {
             this.yearsOfService = yearsOfService;
         } else {
-            System.out.println("Years of service cannot be negative.");
+            System.out.println("Years of service cannot be negative");
         }
     }
 
