@@ -1,5 +1,5 @@
 /**
- * Write a description of class MobilePhone here.
+ * Write a description of class Person here.
  *
  * @author (24BIA023)
  * @version (12/5/2026)
