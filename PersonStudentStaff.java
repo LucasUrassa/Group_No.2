@@ -1,3 +1,9 @@
+/**
+ * Write a description of class Person here.
+ *
+ * @author (24BIA023)
+ * @version (12/2/2026)
+ */
 public class PersonStudentStaff {
 
     public static void main(String[] args) {
